@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const KEY ='AIzaSyBHLs09F9juSu3vUh6bmbsi4kZ5AfPLbeg';
+const KEY ='insert key';
 
 
 export default axios.create({
