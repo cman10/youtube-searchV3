@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/youtube-search/static/css/main.b2422cb5.chunk.css",
-    "main.js": "/youtube-search/static/js/main.eedde29f.chunk.js",
-    "main.js.map": "/youtube-search/static/js/main.eedde29f.chunk.js.map",
-    "runtime-main.js": "/youtube-search/static/js/runtime-main.c558e88f.js",
-    "runtime-main.js.map": "/youtube-search/static/js/runtime-main.c558e88f.js.map",
-    "static/js/2.86213445.chunk.js": "/youtube-search/static/js/2.86213445.chunk.js",
-    "static/js/2.86213445.chunk.js.map": "/youtube-search/static/js/2.86213445.chunk.js.map",
-    "index.html": "/youtube-search/index.html",
-    "precache-manifest.3d1660c7a43477d24ce058619fc2c0b7.js": "/youtube-search/precache-manifest.3d1660c7a43477d24ce058619fc2c0b7.js",
-    "service-worker.js": "/youtube-search/service-worker.js",
-    "static/css/main.b2422cb5.chunk.css.map": "/youtube-search/static/css/main.b2422cb5.chunk.css.map",
-    "static/js/2.86213445.chunk.js.LICENSE.txt": "/youtube-search/static/js/2.86213445.chunk.js.LICENSE.txt"
+    "main.css": "/cman10/youtube-search.git/static/css/main.b2422cb5.chunk.css",
+    "main.js": "/cman10/youtube-search.git/static/js/main.eedde29f.chunk.js",
+    "main.js.map": "/cman10/youtube-search.git/static/js/main.eedde29f.chunk.js.map",
+    "runtime-main.js": "/cman10/youtube-search.git/static/js/runtime-main.74e2b3fb.js",
+    "runtime-main.js.map": "/cman10/youtube-search.git/static/js/runtime-main.74e2b3fb.js.map",
+    "static/js/2.86213445.chunk.js": "/cman10/youtube-search.git/static/js/2.86213445.chunk.js",
+    "static/js/2.86213445.chunk.js.map": "/cman10/youtube-search.git/static/js/2.86213445.chunk.js.map",
+    "index.html": "/cman10/youtube-search.git/index.html",
+    "precache-manifest.c00be53804efe1a683acf5c08ca5e3cc.js": "/cman10/youtube-search.git/precache-manifest.c00be53804efe1a683acf5c08ca5e3cc.js",
+    "service-worker.js": "/cman10/youtube-search.git/service-worker.js",
+    "static/css/main.b2422cb5.chunk.css.map": "/cman10/youtube-search.git/static/css/main.b2422cb5.chunk.css.map",
+    "static/js/2.86213445.chunk.js.LICENSE.txt": "/cman10/youtube-search.git/static/js/2.86213445.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c558e88f.js",
+    "static/js/runtime-main.74e2b3fb.js",
     "static/js/2.86213445.chunk.js",
     "static/css/main.b2422cb5.chunk.css",
     "static/js/main.eedde29f.chunk.js"
